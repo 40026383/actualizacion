@@ -1,1 +1,8 @@
 ajuste a una función, para poder correr el programa
+Funciones de texto en Python
+Python incluye más funciones para cambio de mayúsculas a minúsculas:
+lower(): convierte toda la cadena a minúsculas.
+upper(): convierte toda la cadena a mayúsculas.
+title(): convierte la primera letra de cada palabra a mayúsculas.
+swapcase(): invierte las mayúsculas a minúsculas y viceversa.
+13 ene 2021
